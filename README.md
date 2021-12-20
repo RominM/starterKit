@@ -25,4 +25,15 @@ $ npm run prefix
 $ npm run sass
 ```
 
-**Have fun :)**
+** **
+
+**Si vous souhaitez tester votre projet**
+```
+$ npm run test
+```
+**ou test un seul fichier**
+```
+$ jest js/__tests__/your_test_file.js
+```
+
+**Have fun ;)**
