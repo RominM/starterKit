@@ -1,0 +1,15 @@
+// Sass root
+
+/**VARIABLES**/
+@import "./1_variables/var.scss";
+
+/**MIXINS**/
+@import "./2_mixins/mix.scss";
+
+/**LAYOUT**/
+@import "./3_layout/header.scss";
+@import "./3_layout/main.scss";
+@import "./3_layout/footer.scss";
+
+/**COMPONENTS**/
+@import "./4_components/btn.scss";
